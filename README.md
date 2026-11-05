@@ -473,16 +473,6 @@ Se realiza una validación cruzada rigurosa entre las cinco herramientas de simu
 4. Cuaderno computacional de MATLAB (`.mlx`).
 5. Código independiente en Python.
 
-### Archivos de figuras generadas
-
-| Condición de prueba | MATLAB / Simulink | Python |
-|---|---|---|
-| Respuesta al Impulso (Lazo Abierto) | [`impulse_matlab.pdf`](impulse_matlab.pdf) | [`impulse_python.pdf`](impulse_python.pdf) |
-| Respuesta a la Entrada Escalón | [`step_matlab.pdf`](step_matlab.pdf) | [`step_python.pdf`](step_python.pdf) |
-| Comparativa Lazo Cerrado (Control vs Caso vs PID) | [`closed_loop_matlab.pdf`](closed_loop_matlab.pdf) | [`closed_loop_python.pdf`](closed_loop_python.pdf) |
-
-[Volver al contenido](#contenido)
-
 ---
 
 <a id="flujo"></a>
