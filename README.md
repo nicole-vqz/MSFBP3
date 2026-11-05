@@ -548,6 +548,7 @@ flowchart TD
 ├── simulinkmatlab.pdf                             # Gráfica de respuesta  en MATLAB
 ├── figura 1 python.png                            # Gráfica de respuesta Python
 ├── Respuestamatlab.pdf                           # Gráfica de respuesta en MATLAB
+   parametros..jpg                              
 ```
 
 [Volver al contenido](#contenido)
